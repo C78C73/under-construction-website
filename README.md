@@ -1,4 +1,4 @@
-# Mizzou Athletics Data Lab — Under Construction
+# [Mizzou Athletics Data Lab — Under Construction](https://showmestatistics.com/)
 
 A minimalist "under construction" landing page for the Mizzou Athletics Data & Stats capstone project. Features a clean design with Mizzou branding colors and a progress indicator.
 
